@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Yosusan's blog deeplearning勉強するぞ！
+title: Yosusan's blog 「pytorchとfastaiではじめるディープラーニング」tutorial
 description: My first study deeplearning Blog ❤
 github_username: yosuzuki
 
 # Email and twitter are optional:
-email:
+email:yosusanster@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
