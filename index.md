@@ -1,7 +1,7 @@
 Hello and welcome to this blog. 
 
 # I have a *blog*!
-# fast ai で　ディープラーニングの学習を進めてみるぞ　！！
+## 「PyTorchとfastaiではじめるディープラーニング」で進めるtutorial
 
 ![Image of fast.ai logo](images/logo.png)
 
