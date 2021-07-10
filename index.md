@@ -3,7 +3,7 @@ Hello and welcome to this blog.
 # I have a *blog*!
 ## 「PyTorchとfastaiではじめるディープラーニング」で進めるtutorial
 
-![Image of fast.ai book](images/スクリーンショット 2021-07-10 104850.jpg)
+
 ![Image of fast.ai logo](images/logo.png)
 
 ## さあ、勉強しよう
